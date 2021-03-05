@@ -1,0 +1,89 @@
+.header{
+    display: flex; 
+    height: 74px;
+}
+
+.menu{
+    margin-left: 325px;
+    margin-right: 100px;
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+.logo{
+    margin: 28px 0px 25px 68px;
+}
+.element1{
+    position: absolute;
+  left: 550px; right: 10px; top: 26px; bottom: 26px;
+}
+
+.element2{
+    position: absolute;
+  left: 636px; right: 10px; top: 26px; bottom: 26px;
+}
+
+.element3{
+    position: absolute;
+  left: 740px; right: 10px; top: 26px; bottom: 26px;
+}
+
+.text{
+    font-family: SB Sans Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    color: #979797;
+}
+
+.name{
+    font-family: SB Sans Display;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 64px;
+    color: #333F48;
+
+    margin: 40px 380px 0px 68px;
+}
+
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    margin:64px 69px 0px 69px;
+}
+
+.backgr{
+    width: 390px;
+    height: 260px;
+    background-color: black;
+    border-radius: 16px;
+}
+
+.box{
+    padding: 26px;
+}
+
+.imag{
+    margin: 23px 35px 23px 35px ;
+}
+
+.tema{
+    font-family: SB Sans Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #333F48;
+}
+
+.lesson{
+    font-family: SB Sans Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;  
+    color: #21A038;
+}
